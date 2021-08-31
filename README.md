@@ -1,1 +1,2 @@
-# biostat776-intro-lily-koffman
+# Introducing myself
+This website contains a short introduction of Lily Koffman
